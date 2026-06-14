@@ -1,4 +1,4 @@
-# Tugas Praktikum Pertemuan 13 - Web Service Vue.js
+# Tugas Praktikum - Web Service Vue.js
 
 ## Nama
 Ridho Putra Nasrullah
