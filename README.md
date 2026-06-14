@@ -1,5 +1,26 @@
-# Vue 3 + Vite
+# Tugas Praktikum Pertemuan 13 - Web Service Vue.js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Nama
+Ridho Putra Nasrullah
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## NIM
+D112411020
+
+## Program Studi
+Teknik Informatika
+
+## Deskripsi
+Project ini dibuat untuk memenuhi tugas Praktikum Pertemuan 13 mengenai Web Service pada Vue.js. Aplikasi menggunakan Axios untuk mengakses REST API dan menampilkan data pengguna.
+
+## Fitur
+- Menampilkan daftar pengguna
+- Menampilkan detail pengguna
+- Menambahkan pengguna baru
+- Implementasi HTTP GET dan POST
+- Vue Router untuk navigasi halaman
+
+## Teknologi
+- Vue 3
+- Vite
+- Axios
+- Vue Router
